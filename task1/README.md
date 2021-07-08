@@ -1,19 +1,7 @@
 Скріни роботи програми:
-![ScreenShot_20210708122631](https://user-images.githubusercontent.com/79011613/124898917-4b14e780-dfe8-11eb-93ed-37f82f38f937.png)
+![ScreenShot_20210708123748](https://user-images.githubusercontent.com/79011613/124900122-721fe900-dfe9-11eb-9a4b-926968cb7666.png)
+![ScreenShot_20210708123821](https://user-images.githubusercontent.com/79011613/124900138-75b37000-dfe9-11eb-96c4-92fadaaa456e.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-![ScreenShot_20210708122710](https://user-images.githubusercontent.com/79011613/124898934-4e0fd800-dfe8-11eb-864d-ba1370689e90.png)
 
 
 
