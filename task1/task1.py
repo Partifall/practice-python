@@ -17,6 +17,7 @@ for i in range(length):
     else:
         Words+=j
         i+=1
+        
 Words+=' '
 print('-'*50)
 print('Numbers : ' + str(Numbers))
@@ -40,9 +41,7 @@ for i in range(len(Numbers)):
               i+=1
          else:
               continue
-
 print('-'*50)
-
 print('Max number : ' + str(MaxNumber))
 print('Numbers x**i without max : ' + str(Numbers2))
 print('-'*50)
@@ -61,6 +60,7 @@ for i in range(len(Words)-1):
         i+=1
     else:
         i+=1
+        
 print('String with upper : ' + StringUpper)
 print('-'*50)
 input()
