@@ -10,6 +10,7 @@
 
 Шукає макс значення
 ![124473519-19154280-dda8-11eb-8fd7-c2a4e6e3ca24](https://user-images.githubusercontent.com/79011613/124902022-384fe200-dfeb-11eb-8b9f-8b4a64dc3869.png)
+
 Всі числа, окрім найбільшого записуються в інший масив і підносятся до степені свого індексу.
 
 ![124473552-26323180-dda8-11eb-8264-a5d2e09d7c73](https://user-images.githubusercontent.com/79011613/124902099-4d2c7580-dfeb-11eb-8b95-134c488c7b3b.png)
